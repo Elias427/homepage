@@ -37,9 +37,9 @@ interests = [
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Sc. of Physics"
+  institution = "Heidelberg University"
+  year = 2017
 
 # Social/Academic Networking
 #
@@ -62,7 +62,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:elias@eulig-hannover.de"  # #contact to go to contact sectionFor a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
