@@ -19,11 +19,11 @@ bio = "In love with developing machine learning techniques for medical image dat
 email = "elias@eulig-hannover.de"
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+# interests = [
+#  "Deep Learning",
+#  "Connectomics",
+#  "Information Retrieval"
+# ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -79,6 +79,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I currently am pursuing my masters degree of physics at Heidelberg University. Besides my studies I work as a Student Researcher in the X-Ray Imaging and Computed Tomography group at the German Cancer Research Center (DKFZ) in Heidelberg under supervision of Prof. Dr. Marc Kachelrieß with main focus on development of deep learning methods for CT and X-ray image data.
