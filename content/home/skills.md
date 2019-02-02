@@ -28,10 +28,10 @@ weight = 2
   description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Python"
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
