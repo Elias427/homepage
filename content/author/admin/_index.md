@@ -79,4 +79,4 @@ email = "elias@eulig-hannover.de"
 
 +++
 
-I currently am pursuing my masters degree of physics at Heidelberg University. Besides my studies I work as a Student Researcher in the X-Ray Imaging and Computed Tomography group at the German Cancer Research Center (DKFZ) in Heidelberg under supervision of Prof. Dr. Marc Kachelrieß with main focus on development of deep learning methods for CT and X-ray image data.
+I currently am pursuing my master's degree of physics at Heidelberg University. Besides my studies I work as a Student Researcher in the X-Ray Imaging and Computed Tomography group at the German Cancer Research Center (DKFZ) in Heidelberg under supervision of Prof. Dr. Marc Kachelrieß with main focus on development of deep learning methods for CT and X-ray image data.
