@@ -1,22 +1,22 @@
 +++
 # Display name
-name = "Elias E"
+name = "Elias Eulig"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "M.Sc. Student at Heidelberg University"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "German Cancer Research Center (DKFZ)", url = "https://www.dkfz.de/en/index.html" },{ name = "Max Planck Institute for Brain Research", url = "https://www.brain.mpg.de" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "In love with developing machine learning techniques for medical image data."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "elias@eulig-hannover.de"
 
 # List (academic) interests or hobbies
 interests = [
