@@ -61,3 +61,7 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+[params]
+custom_css = ["red.css"]
+custom_js  = []
