@@ -27,20 +27,15 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
   course = "B.Sc. of Physics"
   institution = "Heidelberg University"
   year = 2017
 
+[[education.courses]]
+  course = "High School Degree (Abitur)"
+  institution = "Wilhelm-Raabe-Schule Hannover"
+  year = 2013
+  
 # Social/Academic Networking
 #
 # Icon pack "fab" includes the following social network icons:
@@ -65,9 +60,9 @@ interests = [
   link = "mailto:elias@eulig-hannover.de"  # contact or "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  icon = "linkedin"
+  icon_pack = "fas"
+  link = "https://www.linkedin.com/in/elias-eulig-b00411171/"
 
 [[social]]
   icon = "google-scholar"
