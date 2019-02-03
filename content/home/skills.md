@@ -34,9 +34,21 @@ weight = 7
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Pytorch"
+  description = ""
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Tensorflow"
+  description = ""
+  
+  [[feature]]
+  icon = "superscript"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = ""
+  
 +++
