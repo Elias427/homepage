@@ -22,33 +22,27 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Pytorch/Tensorflow"  
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = ""
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""  
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Pytorch"
-  description = ""
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Tensorflow"
-  description = ""
-  
-  [[feature]]
+    
+ [[feature]]
   icon = "superscript"
   icon_pack = "fas"
   name = "Matlab"
   description = ""
+  
+ [[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "German (mother tongue) | English (fluent) | French (basic knowledge)"
   
 +++
