@@ -38,10 +38,10 @@ date_format = "January 2006"
   date_end = ""
   
 [[experience]]
-  title = "Student Researcher"
-  company = "Max Planck Institute for Brain Research"
+  title = "Intern"
+  company = "Laser Zentrum Hannover e.V. (LZH)"
   company_url = ""
-  location = "Frankfurt a.M., Germany"
+  location = "Hanover, Germany"
   date_start = "2013-09-01"
   date_end = "2014-09-01"
 
