@@ -1,6 +1,6 @@
 +++
 title = "Real-time scatter estimation for medical CT using the deep scatter estimation : Method and robustness analysis with respect to different anatomies, dose levels, tube voltages, and data truncation"
-date = 2018-11-01T00:00:00
+date = 2018-11-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
