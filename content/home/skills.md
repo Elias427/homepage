@@ -38,7 +38,7 @@ weight = 7
   icon_pack = "fas"
   name = "Matlab"
   description = ""
-  
+    
  [[feature]]
   icon = "language"
   icon_pack = "fas"
