@@ -25,7 +25,7 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Pytorch/Tensorflow"  
+  description = """Pytorch </br> Tensorflow"""
   
 [[feature]]
   icon = "r-project"
