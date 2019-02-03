@@ -43,6 +43,6 @@ weight = 7
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "German (mother tongue) | English (fluent) | French (basic knowledge)"
+  description = """German (mother tongue) </br> English (fluent) </br> French (basic knowledge)"""
   
 +++
