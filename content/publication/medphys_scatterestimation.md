@@ -23,8 +23,7 @@ publication = "In *Medical Physics*"
 publication_short = "In *Medical Physics*"
 
 # Abstract and optional shortened version.
-abstract = "*Purpose:* X‐ray scattering leads to CT images with a reduced contrast, inaccurate CT values as well as streak and cupping artifacts. Therefore, scatter correction is crucial to maintain the diagnostic value of CT and CBCT examinations. However, existing approaches are not able to combine both high accuracy and high computational performance. Therefore, we propose the deep scatter estimation (DSE): a deep convolutional neural network to derive highly accurate scatter estimates in real time. <br/>
-*Methods:* Gold standard scatter estimation approaches rely on dedicated Monte Carlo (MC) photon transport codes. However, being computationally expensive, MC methods cannot be used routinely. To enable real‐time scatter correction with similar accuracy, DSE uses a deep convolutional neural network that is trained to predict MC scatter estimates based on the acquired projection data. Here, the potential of DSE is demonstrated using simulations of CBCT head, thorax, and abdomen scans as well as measurements at an experimental table‐top CBCT. Two conventional computationally efficient scatter estimation approaches were implemented as reference: a kernel‐based scatter estimation (KSE) and the hybrid scatter estimation (HSE). <br/>"
+abstract = "*Purpose:* X‐ray scattering leads to CT images with a reduced contrast, inaccurate CT values as well as streak and cupping artifacts. Therefore, scatter correction is crucial to maintain the diagnostic value of CT and CBCT examinations. However, existing approaches are not able to combine both high accuracy and high computational performance. Therefore, we propose the deep scatter estimation (DSE): a deep convolutional neural network to derive highly accurate scatter estimates in real time. <br/>"
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
