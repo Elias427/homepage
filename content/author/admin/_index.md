@@ -29,7 +29,7 @@ email = "elias@eulig-hannover.de"
 [[education.courses]]
   course = "M.Sc. in Physics"
   institution = "Heidelberg University"
-  year = currently pursuing
+  year = "currently pursuing"
 
 [[education.courses]]
   course = "B.Sc. in Physics"
