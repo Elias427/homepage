@@ -36,7 +36,7 @@ date_format = "January 2006"
   location = "Frankfurt a.M., Germany"
   date_start = "2017-03-01"
   date_end = ""
-  
+
 [[experience]]
   title = "Intern"
   company = "Laser Zentrum Hannover e.V. (LZH)"
