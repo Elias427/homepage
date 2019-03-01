@@ -40,7 +40,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Intern"
   company = "Laser Zentrum Hannover e.V. (LZH)"
-  company_url = ""
+  company_url = "https://www.lzh.de/de"
   location = "Hanover, Germany"
   date_start = "2013-09-01"
   date_end = "2014-09-01"
