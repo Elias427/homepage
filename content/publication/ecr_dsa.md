@@ -19,8 +19,8 @@ authors = ["E. Eulig", "J. Maier", "M. Knaup", "T. Koenig", "K. Hörndler", "M. 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Program of the European Congress of Radiology*"
-publication_short = "In *Program of the European Congress of Radiology*"
+publication = "In *Program of the European Congress of Radiology (ECR)*"
+publication_short = "In *Program of the European Congress of Radiology (ECR)*"
 
 # Abstract and optional shortened version.
 abstract = ""
