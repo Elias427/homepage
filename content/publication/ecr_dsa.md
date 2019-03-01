@@ -1,5 +1,5 @@
 +++
-title = "Deep DSA : Learning digital subtraction angiography for static and dynamic acquisition protocols using a deep convolutional neural network"
+title = "Deep DSA : Learning Digital Subtraction Angiography for Static and Dynamic Acquisition Protocols using a Deep Convolutional Neural Network"
 date = 2019-02-01T00:00:00
 draft = false
 
