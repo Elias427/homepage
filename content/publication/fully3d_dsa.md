@@ -1,6 +1,6 @@
 +++
 title = "Shallow DSA : Learning Digital Subtraction Angiography for Static and Dynamic Acquisition Protocols using a Deep Convolutional Neural Network"
-date = 2019-02-01T00:00:00
+date = 2019-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
