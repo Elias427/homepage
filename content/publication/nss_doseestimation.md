@@ -56,7 +56,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_conference_contributions/DeepDoseEstimation_MIC2018_Poster_JoschaMaier.pdf?m=1542353582"
 url_source = ""
 
 # Custom links (optional).
