@@ -1,5 +1,5 @@
 +++
-title = "Shallow DSA : Learning Digital Subtraction Angiography for Static and Dynamic Acquisition Protocols using a Deep Convolutional Neural Network"
+title = "Learned Digital Subtraction Angiography (Deep DSA): Method and Application to Lower Extremities"
 date = 2019-02-10T00:00:00
 draft = false
 
@@ -19,8 +19,8 @@ authors = ["E. Eulig", "J. Maier", "M. Knaup", "T. Koenig", "K. Hörndler", "M. 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Program of the European Congress of Radiology (ECR)*"
-publication_short = "In *Program of the European Congress of Radiology (ECR)*"
+publication = "In *15th International Meeting on Fully Three-Dimensional Image Reconstruction*"
+publication_short = "In *15th International Meeting on Fully Three-Dimensional Image Reconstruction*"
 
 # Abstract and optional shortened version.
 abstract = ""
