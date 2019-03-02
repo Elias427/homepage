@@ -1,7 +1,7 @@
 +++
 title = "Learned Digital Subtraction Angiography (Deep DSA): Method and Application to Lower Extremities"
 date = "2019-06-01"
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["E. Eulig", "J. Maier", "M. Knaup", "T. Koenig", "K. Hörndler", "M. Kachelrieß"]
