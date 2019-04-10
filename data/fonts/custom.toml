@@ -2,7 +2,7 @@
 name = "custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,400|Merriweather|Roboto+Mono|Noto+Sans:300"
+google_fonts = "Lato:400,400|Merriweather|Roboto+Mono|Noto+Sans:200"
 
 # Font families
 heading_font = "Noto Sans"
