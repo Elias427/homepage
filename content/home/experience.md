@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "Stanford University"
   company_url = "http://med.stanford.edu/wanggroup.html"
   location = "Stanford, CA"
-  date_start = "2018-02-01"
+  date_start = "2019-04-01"
   date_end = ""
 
 [[experience]]
