@@ -10,7 +10,7 @@ role = "M.Sc. Student at Heidelberg University"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "German Cancer Research Center (DKFZ)", url = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_index.html" },
+organizations = [ { name = "German Cancer Research Center", url = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_index.html" },
 { name = "Stanford University", url = "http://med.stanford.edu/wanggroup.html" } ]
 # { name = "Max Planck Institute for Brain Research", url = "http://brain.mpg.de/research/helmstaedter-department.html" } ]
 
