@@ -57,7 +57,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "files/Poster.pdf"
+url_poster = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_conference_contributions/Poster_Eulig.pdf?m=1557394000"
 url_source = ""
 
 # Custom links (optional).
