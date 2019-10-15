@@ -1,6 +1,6 @@
 +++
 title = "Deep Learning-Aided CBCT Image Reconstruction of Interventional Material from Four X-Ray Projections"
-date = "2020-02-15"
+date = "2019-02-15"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
