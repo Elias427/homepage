@@ -1,6 +1,6 @@
 +++
 title = "Deep Learning-Aided CBCT Image Reconstruction of Interventional Material from Four X-Ray Projections"
-date = "2019-02-15"
+date = "2020-01-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -62,7 +62,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Proceeding", url = "https://doi.org/10.1117/12.2534740"}]
+#url_custom = [{name = "Proceeding", url = "https://doi.org/10.1117/12.2534740"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
