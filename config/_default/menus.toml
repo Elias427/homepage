@@ -23,4 +23,4 @@
 [[main]]
   name = "CV"
    url = "files/CurriculumVitae.pdf"
-  weight = 1
+  weight = 2
