@@ -8,10 +8,10 @@
   url = "#about"
   weight = 1
 
-[[main]]
-  name = "Publications"
-  url = "files/ListOfPublications.pdf"
-  weight = 2
+#[[main]]
+#  name = "Publications"
+#  url = "files/ListOfPublications.pdf"
+#  weight = 2
 
 #[[main]]
 #  name = "Projects"
@@ -23,4 +23,4 @@
 [[main]]
   name = "CV"
    url = "files/CurriculumVitae.pdf"
-  weight = 3
+  weight = 1
