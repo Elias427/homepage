@@ -43,7 +43,7 @@ date_format = "January 2006"
   company_url = "http://brain.mpg.de/research/helmstaedter-department.html"
   location = "Frankfurt a.M., Germany"
   date_start = "2017-03-01"
-  date_end = "2017-08-31"
+  date_end = "2018-09-01"
 
 [[experience]]
   title = "Intern"
