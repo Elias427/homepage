@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "http://med.stanford.edu/wanggroup.html"
   location = "Stanford, CA"
   date_start = "2019-04-01"
-  date_end = ""
+  date_end = "2019-08-30"
 
 [[experience]]
   title = "Student Researcher"
@@ -43,14 +43,22 @@ date_format = "January 2006"
   company_url = "http://brain.mpg.de/research/helmstaedter-department.html"
   location = "Frankfurt a.M., Germany"
   date_start = "2017-03-01"
-  date_end = "2018-09-01"
+  date_end = "2018-09-30"
 
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Heidelberg University"
+  company_url = "https://www.uni-heidelberg.de/de"
+  location = "Heidelberg, Germany"
+  date_start = "2016-04-01"
+  date_end = "2016-09-30"
+  
 [[experience]]
   title = "Intern"
   company = "Laser Zentrum Hannover e.V. (LZH)"
   company_url = "https://www.lzh.de/de"
   location = "Hanover, Germany"
   date_start = "2013-09-01"
-  date_end = "2014-09-01"
+  date_end = "2014-09-30"
 
 +++
