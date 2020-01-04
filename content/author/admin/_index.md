@@ -81,7 +81,7 @@ email = "elias@eulig-hannover.de"
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/CurriculumVitae.pdf"
+  link = "files/Resume_EliasEulig.pdf"
 
 [[social]]
   icon = "instagram"
