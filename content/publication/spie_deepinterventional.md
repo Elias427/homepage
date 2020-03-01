@@ -43,7 +43,7 @@ projects = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_conference_contributions/2019.02.17_DeepInterventional_EliasEulig.pdf?m=1582092784"
+slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -55,7 +55,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_conference_contributions/2019.02.17_DeepInterventional_EliasEulig.pdf?m=1582092784"
 url_video = ""
 url_poster = ""
 url_source = ""
