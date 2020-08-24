@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-01"
   date_end = ""
-  description = "test"
+  description = """SPIE Student Travel Grant to present the conference contribution "Deep Learning-Aided CBCT Image Reconstruction of Interventional Material from Four X-Ray Projections" by E. Eulig, J. Maier, N. R. Bennett, M. Knaup, K. Hörndler, A. Wang, and M. Kachelrieß at the SPIE Medical Imaging 2020 in Houston, TX."""
   
 [[item]]
   title = "PROMOS Travel Scholarship"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-04-01"
   date_end = ""
-  description = ""
+  description = """PROMOS travel scholarship of the German Academic Exchange Service - Deutscher Akademischer Auslandsdienst (DAAD) for my period of research at Stanford University."""
 
 [[item]]
   title = "Travel Scholarship"
