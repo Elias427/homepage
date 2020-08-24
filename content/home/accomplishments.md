@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-04-01"
   date_end = ""
-  description = ""
+  description = """Travel scholarship of the Society of High Performance Computational Imaging (SHPCI e.V.) for my period of research at Stanford University."""
   
 [[item]]
   title = "Best Abitur in Physics"
