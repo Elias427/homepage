@@ -20,27 +20,35 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "SPIE Student Travel Grant"
+  organization = "Society of Photo-Optical Instrumentation Engineers (SPIE)"
+  certificate_url = ""
+  date_start = "2020-01-01"
   date_end = ""
-  description = ""
-
-[[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+  description = "SPIE Student Travel Grant to present the conference contribution "Deep Learning-Aided CBCT Image Reconstruction of Interventional Material from Four X-Ray Projections" by E. Eulig, J. Maier, N. R. Bennett, M. Knaup, K. Hörndler, A. Wang, and M. Kachelrieß at the SPIE Medical Imaging 2020 in Houston, TX."
   
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  title = "PROMOS Travel Scholarship"
+  organization = "German Academic Exchange Service (DAAD)"
+  certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = "PROMOS travel scholarship of the German Academic Exchange Service - Deutscher Akademischer Auslandsdienst (DAAD) for my period of research at Stanford University."
+
+[[item]]
+  title = "Travel Scholarship"
+  organization = "Society of High Performance Computational Imaging (SHPCI e.V.)"
+  certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = "Travel scholarship of the Society of High Performance Computational Imaging (SHPCI e.V.) for my period of research at Stanford University."
+  
+[[item]]
+  title = "Best Abitur in Physics"
+  organization = "German Physical Society (DPG)"
+  certificate_url = ""
+  date_start = "2013-03-01"
+  date_end = ""
   description = ""
 
 +++
