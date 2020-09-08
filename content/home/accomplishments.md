@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Master's Thesis Award"
   organization = "German Society of Medical Physics - Deutsche Gesellschaft für Medizinische Physik (DGMP)"
-  certificate_url = ""
+  certificate_url = "https://www.dgmp.de/de-DE/460/masterarbeitspreis-der-dgmp/"
   date_start = "2020-09-01"
   date_end = ""
   description = """Dietrich-Harder-Master’s thesis award by the German Society of Medical Physics - Deutsche Gesellschaft für Medizinische Physik (DGMP) for an outstanding master’s thesis in the field of medical physics."""
