@@ -6,13 +6,11 @@ name = "Elias Eulig"
 superuser = true
 
 # Role/position
-role = "M.Sc. Student at Heidelberg University"
+role = "PhD Student at Heidelberg University"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "German Cancer Research Center", url = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_index.html" },
-{ name = "Stanford University", url = "http://med.stanford.edu/wanggroup.html" } ]
-# { name = "Max Planck Institute for Brain Research", url = "http://brain.mpg.de/research/helmstaedter-department.html" } ]
+organizations = [ { name = "German Cancer Research Center", url = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_index.html" }]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "In love with developing machine learning techniques for medical image data."
@@ -31,7 +29,7 @@ email = "elias@eulig-hannover.de"
 [[education.courses]]
   course = "M.Sc. in Physics"
   institution = "Heidelberg University"
-  year = "currently pursuing"
+  year = "2020"
 
 [[education.courses]]
   course = "B.Sc. in Physics"
