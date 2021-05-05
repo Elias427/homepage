@@ -88,6 +88,4 @@ email = "elias@eulig-hannover.de"
 
 +++
 
-I am a 24 year old master's student in physics at Heidelberg University. Besides my studies I work as a Student Researcher in the X-Ray Imaging and Computed Tomography group at the German Cancer Research Center (DKFZ) in Heidelberg under supervision of Prof. Dr. Marc Kachelrieß with main focus on development of deep learning methods for CT and X-ray image data.
-
-Currently I am writing my master's thesis as a visiting student researcher in the Wang Group at Stanford University under supervision of Dr. Adam Wang.
+I am a 25 year old PhD student in physics at Heidelberg University with a strong background in deep learning and medical imaging.
