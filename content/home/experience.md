@@ -19,6 +19,22 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD Student"
+  company = "German Cancer Research Center (DKFZ)"
+  company_url = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_index.html"
+  location = "Heidelberg, Germany"
+  date_start = "2021-05-01"
+  date_end = ""
+  
+[[experience]]
+  title = "Machine Learning Researcher"
+  company = "RayConStruct"
+  company_url = "http://www.rayconstruct.de"
+  location = "Nuremberg, Germany"
+  date_start = "2020-07-01"
+  date_end = ""
+  
+[[experience]]
   title = "Visiting Student Researcher"
   company = "Stanford University"
   company_url = "http://med.stanford.edu/wanggroup.html"
@@ -32,7 +48,7 @@ date_format = "January 2006"
   company_url = "https://www.dkfz.de/en/roentgenbildgebung/ct/ct_index.html"
   location = "Heidelberg, Germany"
   date_start = "2018-02-01"
-  date_end = ""
+  date_end = "2020-08-30"
 #  description = """
 #  Responsibilities include:
 #  """
